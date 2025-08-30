@@ -2,6 +2,9 @@
 Merdeka!
 
 Requirement:
-```
 Install pyfiglet and python on your system
+
+How to install pyfiglet?:
+```
+pip install pyfiglet or pip3 install pyfiglet
 ```
